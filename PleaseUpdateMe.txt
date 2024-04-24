@@ -1,1 +1,6 @@
 https://github.com/SigmaHQ/sigma
+https://github.com/The-DFIR-Report/Sigma-Rules
+https://github.com/mdecrevoisier/SIGMA-detection-rules
+https://github.com/akky2892/Sigma-to
+https://github.com/mbabinski/Sigma-Rules
+https://github.com/tsale/Sigma_rules
